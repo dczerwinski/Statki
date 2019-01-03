@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PO_STATKi", "PO_STATKi\PO_STATKi.vcxproj", "{4AACD153-C4CB-4AB4-86CD-2E3581F7C63A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AACD153-C4CB-4AB4-86CD-2E3581F7C63A}.Debug|x64.ActiveCfg = Debug|x64
+		{4AACD153-C4CB-4AB4-86CD-2E3581F7C63A}.Debug|x64.Build.0 = Debug|x64
+		{4AACD153-C4CB-4AB4-86CD-2E3581F7C63A}.Debug|x86.ActiveCfg = Debug|Win32
+		{4AACD153-C4CB-4AB4-86CD-2E3581F7C63A}.Debug|x86.Build.0 = Debug|Win32
+		{4AACD153-C4CB-4AB4-86CD-2E3581F7C63A}.Release|x64.ActiveCfg = Release|x64
+		{4AACD153-C4CB-4AB4-86CD-2E3581F7C63A}.Release|x64.Build.0 = Release|x64
+		{4AACD153-C4CB-4AB4-86CD-2E3581F7C63A}.Release|x86.ActiveCfg = Release|Win32
+		{4AACD153-C4CB-4AB4-86CD-2E3581F7C63A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB4291AC-2D5B-4F0D-A144-DA0BA74AE962}
+	EndGlobalSection
+EndGlobal
